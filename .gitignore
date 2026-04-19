@@ -1,0 +1,55 @@
+```
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
+target/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Coverage reports
+coverage/
+htmlcov/
+
+# Local configuration
+*.local
+
+# TypeScript/JavaScript bundler cache
+.vite/
+.cache/
+
+# System files
+*.dll
+*.so
+*.a
+*.obj
+*.out
+
+```
